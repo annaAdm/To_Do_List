@@ -5,7 +5,7 @@
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
-      <env name="DB_URI" value="sqlite:///cafes.db" />
+      <env name="DB_URI" value="sqlite:///todos.db" />
       <env name="FLASK_KEY" value="8BYkEfBA6O6donzWlSihBXox7C0sKR6b" />
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
